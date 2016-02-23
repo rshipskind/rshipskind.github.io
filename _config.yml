@@ -9,7 +9,7 @@
 title: Rob Hipskind
 email: rshipskind@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal site of Rob Hipskind.
+  Personal site of Rob Hipskind
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "rshipskind.github.io" # the base hostname & protocol for your site
 twitter_username: rshipskind
