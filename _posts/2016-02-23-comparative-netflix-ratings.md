@@ -63,4 +63,8 @@ And finally, we see that while I've done a pretty good job of maintaining a near
 
 ![png](/images/comparative_netflix_ratings.png)
 
+To which she understandably responded, "Why would I even want normally distributed ratings?"
+
+Touché.
+
 [Check the code](https://github.com/rshipskind/netflix_ratings/blob/master/netflix_ratings.ipynb)
