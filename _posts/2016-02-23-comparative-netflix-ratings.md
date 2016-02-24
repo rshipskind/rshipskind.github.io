@@ -62,3 +62,5 @@ plt.show()
 And finally, we see that while I've done a pretty good job of maintaining a nearly normal distribution of ratings she is clearly inflating her ratings.
 
 ![png](/images/comparative_netflix_ratings.png)
+
+[Check the code](https://github.com/rshipskind/netflix_ratings/blob/master/netflix_ratings.ipynb)
