@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Comparative Netflix Ratings"
-date:   2016-02-23 00:23:21 -0500
+date:   2016-02-23
 categories: blog
 ---
 
