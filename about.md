@@ -15,6 +15,6 @@ I've been lucky that every campaign I've worked on since then had someone who un
 
 
 
-And the analysis that helps target political communications is pretty useful when deciding where to focus while playing some modern board games as well.
+
 
 ![Playing Battlelore](/images/battlelore.jpg){: .center-image}
