@@ -52,9 +52,16 @@ $on-laptop:        800px;
         "syntax-highlighting"
 ;
 
-// Style to center images
-.center-image
-{
+// Image Styles
+.center-image {
     margin: 0 auto;
     display: block;
+}
+
+.right-image {
+    float: right;
+}
+
+.left-image {
+    float: left;
 }
