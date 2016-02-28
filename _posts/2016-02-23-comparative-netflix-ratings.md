@@ -61,7 +61,7 @@ plt.show()
 
 And finally, we see that while I've done a pretty good job of maintaining a nearly normal distribution of ratings she is clearly inflating her ratings.
 
-![Comparative Netflix Ratings Graph](/images/comparative_netflix_ratings.png)
+![Comparative Netflix Ratings Graph](/images/comparative_netflix_ratings.png){: .center-image }
 
 To which she understandably responded, "Why would I even want normally distributed ratings?"
 
