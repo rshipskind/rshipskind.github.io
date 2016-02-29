@@ -2,7 +2,7 @@
 layout: post
 title:  "Comparative Netflix Ratings"
 date:   2016-02-23
-categories: blog
+categories: post
 excerpt_separator: <!--more-->
 permalink: comparative-netflix-ratings
 ---
