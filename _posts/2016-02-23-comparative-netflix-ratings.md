@@ -4,7 +4,7 @@ title:  "Comparative Netflix Ratings"
 date:   2016-02-23
 categories: blog
 excerpt_separator: <!--more-->
-permalink: comparative_netflix_ratings
+permalink: comparative-netflix-ratings
 ---
 
 I often find myself rating a Netflix show after watching it with my wife. Unfortunately, I find myself frequently giving harsher ratings than she does. So, one weekend while she was out of town, I decided to empirically prove that she was systemically inflating her ratings. <!--more--> Luckily, exporting our ratings was made simple with the help of [Flix Plus](https://github.com/jaredsohn/flix_plus).
