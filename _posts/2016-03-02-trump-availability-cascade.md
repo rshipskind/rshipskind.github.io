@@ -21,6 +21,6 @@ Using [analysis by the GDELT Project with data from the Internet Archive Televis
 
 ![Trump Poll Results vs. TV mentions](/assets/trump_mentions_vs_polling.png)
 
-For every additional thousand times Trump was mentioned on national television during the time a poll was in the field he performed 1.35% better in that poll (r^2 = .193).
+For every additional thousand times Trump was mentioned on national television during the time a poll was in the field he performed 1.35% better in that poll (r<sup>2</sup> = .193).
 
 [Check the data and code](https://github.com/rshipskind/trump_availability_cascade)
