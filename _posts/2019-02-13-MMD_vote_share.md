@@ -18,3 +18,6 @@ Looking at Vermont State House elections in 2014, 2016 and 2018 in multimember d
 The minimum winning vote share was 14.2%, while the maximum losing vote share was 31.6%
 
 While getting 50% of voters to support you (25% vote share) is usually sufficent to win your seat in a 2 member district, this is not always the case, with a 25% vote share being a winning total about 60% of the time. Meanwhile a 24.1% vote share wins a seat 50% of the time. If you want a vote share that wins a seat 95% of the time, you'll need to secure 30.8% of the votes which is the support of 61.6% of the voters, and if you're willing to live dangerously and pick a vote share that wins you that seat 9 times out of 10, you'll be aiming to secure a vote from 58.2% of the voters to secure 29.1% of the vote.
+
+[Check the code](https://github.com/rshipskind/mmd_win_number)
+[and data, courtesy of the VT SoS Elections Division](http://vtelectionarchive.sec.state.vt.us/elections/search/year_from:2014/year_to:2018/office_id:8/stage:General)
